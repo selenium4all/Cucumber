@@ -3,6 +3,8 @@
   <groupId>com.cucumber.project</groupId>
   <artifactId>cucumber</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>cucumber</name>
   
   <dependencies>
 		<dependency>
